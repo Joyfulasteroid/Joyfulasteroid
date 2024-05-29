@@ -10,9 +10,6 @@ I am a self-taught developer currently working as a data analyst/developer. I am
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X1NZZCQ)
 
 <!--
